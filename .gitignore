@@ -3,3 +3,7 @@ CIFAR10/data/
 CIFAR10/
 Warm_up/
 todo.txt
+Segmentation_Task/SegTask/
+Segmentation_Task/SegmentationTask_data.zip
+Segmentation_Task/checkpoints/
+Segmentation_Task/wandb/
