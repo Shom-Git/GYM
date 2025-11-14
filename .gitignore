@@ -7,3 +7,5 @@ Segmentation_Task/SegTask/
 Segmentation_Task/SegmentationTask_data.zip
 Segmentation_Task/checkpoints/
 Segmentation_Task/wandb/
+Notebooks/CUB
+Notebooks/wandb
