@@ -1,0 +1,6 @@
+https://huggingface.co/NAKSTStudio/chess-gemma-commentary  
+протестировать и посмотреть на качесство gemma(Goole)
+
+
+https://huggingface.co/Maxlegrec/ChessBot?utm_source=chatgpt.com
+протестировать и посмотреть на качесство uknown
